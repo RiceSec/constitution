@@ -1,3 +1,26 @@
+%%%
+title = "Rice Information Security Club Constitution"
+abbrev = "RiceSec Constitution"
+
+[seriesInfo]
+name = "FYI"
+value = "ricesec-constitution"
+stream = "IETF"
+status = "informational"
+
+[[author]]
+initials="J."
+surname="Cesarz"
+fullname="John Cesarz"
+
+[[author]]
+initials="S."
+surname="Minocha"
+fullname="Shreyas Minocha"
+%%%
+
+{mainmatter}
+
 # Constitution of the Rice Information Security Club
 
 ## Name and Purpose
@@ -33,7 +56,7 @@ Any of the following shall constitute grounds for removal of membership:
 
 #### Process for Removal
 
-If an officer or the sponsor of the organization has reason to believe a member has acted in a manner warranting removal under Section (todo: fix section number), the member may be called before the officers and sponsor in a closed meeting. After hearing the alleged grounds for removal and the member’s response, the officers may remove the member by a majority vote. The President shall notify the member of the decision in writing within 48 hours.
+If an officer or the sponsor of the organization has reason to believe a member has acted in a manner warranting removal, the member may be called before the officers and sponsor in a closed meeting. After hearing the alleged grounds for removal and the member's response, the officers may remove the member by a majority vote. The President shall notify the member of the decision in writing within 48 hours.
 
 ## Officers
 
@@ -44,7 +67,7 @@ The officers of this organization shall be a President, a Vice-President, and a 
 ### Executive Committee
 
 1. The officers shall constitute the Executive Committee.
-2. The Executive Committee shall have general supervision of the affairs of the organization between its regular meetings, make recommendations to the membership, and perform any other duties listed in this constitution. The Executive Committee shall be subject to the orders of this organization, and none of its acts or omissions shall conflict with action taken by this organization. Accordingly, the Executive Committee shall be authorized to spend this organization’s funds.
+2. The Executive Committee shall have general supervision of the affairs of the organization between its regular meetings, make recommendations to the membership, and perform any other duties listed in this constitution. The Executive Committee shall be subject to the orders of this organization, and none of its acts or omissions shall conflict with action taken by this organization. Accordingly, the Executive Committee shall be authorized to spend this organization's funds.
 3. The Executive Committee shall select its own time and place of meeting. A special meeting may be called by the President. Upon the request of two other officers, the President shall be obligated to call a special meeting.
 
 ### Duties of Officers
@@ -63,11 +86,11 @@ The Vice-President shall:
 
 The Treasurer shall:
 
-1. Manage this organization’s funds;
-2. Maintain a correct balance of this organization’s funds;
+1. Manage this organization's funds;
+2. Maintain a correct balance of this organization's funds;
 3. Present a budget to the membership no later than November 1;
-4. Accept payment of dues from members and update the organization’s records accordingly; and
-5. Make available, at the request of any member, the Student Association, or Rice University, a current breakdown of the organization’s income and expenses.
+4. Accept payment of dues from members and update the organization's records accordingly; and
+5. Make available, at the request of any member, the Student Association, or Rice University, a current breakdown of the organization's income and expenses.
 
 ### Eligibility
 
@@ -75,7 +98,8 @@ Only student members who are not on Disciplinary Probation or otherwise prohibit
 
 ### Selection
 
-Officers shall be elected in accordance with Article (todo: fix numbers) at a regular meeting.
+<!-- hardcoded -->
+Officers shall be elected in accordance with Section 1.5 at a regular meeting.
 
 ### Term
 
@@ -99,7 +123,7 @@ Conduct and the Rice Alcohol Policy, where the violation occurs in the course of
 An officer may be removed through either of the following processes:
 
 1. Upon receipt of a petition of at least 20 percent of the members of the organization, the President shall be required to schedule a recall election to be conducted between 48 hours and two weeks from the time of receipt. A two-thirds vote of members present is required to remove an officer in a recall election.
-2. If an officer or the sponsor of the organization has reason to believe an officer has acted in a manner warranting removal under (todo: fix section num), the officer may be called before the other officers and sponsor in a closed meeting. After hearing the alleged grounds for removal and the officer’s response, the other officers may remove the member by a unanimous vote. The President (or Vice-President if the removal hearing is for the President) shall notify the member of the decision in writing within 24 hours.
+2. If an officer or the sponsor of the organization has reason to believe an officer has acted in a manner warranting removal under Section 1.3.7.1, the officer may be called before the other officers and sponsor in a closed meeting. After hearing the alleged grounds for removal and the officer's response, the other officers may remove the member by a unanimous vote. The President (or Vice-President if the removal hearing is for the President) shall notify the member of the decision in writing within 24 hours. <!-- hardcoded -->
 
 #### Vacancies
 
@@ -113,7 +137,7 @@ Regular meetings of this organization shall be held at a time and place that is 
 
 ### Special Meetings
 
-Special meetings may be called by the President or the Executive Committee. The President shall be obligated to call a special meeting upon the written petition of at least 10 percent of the student members. The purpose of the meeting shall be stated in the call. At least 48 hours’ notice must be given for special meetings.
+Special meetings may be called by the President or the Executive Committee. The President shall be obligated to call a special meeting upon the written petition of at least 10 percent of the student members. The purpose of the meeting shall be stated in the call. At least 48 hours' notice must be given for special meetings.
 
 ### Quorum
 
@@ -129,7 +153,7 @@ Except where otherwise noted, any matter put to a vote shall be decided by a maj
 
 Elections shall be held annually in the spring semester for all officer positions. A majority of members present shall be required to elect an officer. Preferential ballots shall be used in all officer elections involving more than two candidates. If no candidate receives a majority of the first-preference votes, a preferential method shall be used to determine the winner.
 
-The general election must be held at a regular meeting with at least one week’s notice that general elections are to be held.
+The general election must be held at a regular meeting with at least one week's notice that general elections are to be held.
 
 ### Special Elections
 
@@ -141,7 +165,7 @@ Special elections shall be held in the same manner as general elections, except 
 
 The Treasurer shall prepare a proposed budget by November 1 of each year.
 
-The budget may be approved or amended only by a majority vote of members present at a general meeting with at least 48 hours’ notice.
+The budget may be approved or amended only by a majority vote of members present at a general meeting with at least 48 hours' notice.
 
 ### Club Funds
 
@@ -175,7 +199,7 @@ If the sponsor resigns, is replaced, or is otherwise unable to continue serving 
 
 ## Parliamentary Authority
 
-The rules contained in the current edition of Robert’s Rules of Order, Newly Revised shall govern this organization in all cases to which they are applicable and in which they are not inconsistent with this constitution and any special rules of order this organization may adopt.
+The rules contained in the current edition of Robert's Rules of Order, Newly Revised shall govern this organization in all cases to which they are applicable and in which they are not inconsistent with this constitution and any special rules of order this organization may adopt.
 
 ## General Policies and Regulations
 
@@ -209,7 +233,7 @@ This document shall be interpreted based on the letter, the spirit, and the inte
 
 ### Approval by Membership
 
-Proposed amendments to this constitution may be approved by the membership only by a three-fourths vote of members present with at least one week’s prior notice.
+Proposed amendments to this constitution may be approved by the membership only by a three-fourths vote of members present with at least one week's prior notice.
 
 ### Approval by Student Association Parliamentarian
 
